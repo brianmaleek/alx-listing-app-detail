@@ -1,4 +1,4 @@
-import { CardProps } from "../../interfaces/";
+import { CardProps } from "@/interfaces/";
 import React from "react";
 
 export default function Card({
