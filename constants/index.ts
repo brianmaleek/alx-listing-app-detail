@@ -10,7 +10,7 @@ export const HERO_IMAGE = "/assets/Hero section image/Image 1.svg";
 export const MAIN_FILTERS = [
     "Top Villa",
     "Free Schedule",
-    "Book Now Pay Later",
+    "Book Now, Pay Later",
     "Self Checkin",
     "Instant Book",
 ];
