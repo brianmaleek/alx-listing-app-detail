@@ -4,11 +4,24 @@ export const APP_NAME = "ALX Listing App";
 
 export const API_URL = "https://api.example.com/properties";
 
-export const HERO_IMAGE = "/assets/Hero section image/Image 1.png";
+export const HERO_IMAGE = "/assets/Hero section image/Image 1.svg";
+
+// Main filters to display
+export const MAIN_FILTERS = [
+    "Top Villa",
+    "Free Schedule",
+    "Book Now Pay Later",
+    "Self Checkin",
+    "Instant Book",
+];
 
 export const FILTERS = [
-    "Free Parking",
+    "Top Villa",
+    "Free Schedule",
+    "Booking Now, Pay Later",
     "Self Checkin",
+    "Instant Book",
+    "Free Parking",
     "Pool",
     "Fireplace",
     "Mountain View",
